@@ -1,0 +1,13 @@
+site_name: Test Documentation
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+    accent: cyan
+
