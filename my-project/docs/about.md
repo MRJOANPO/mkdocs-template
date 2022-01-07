@@ -1,5 +1,5 @@
-# Absensauxilium evanuit
+# About
 
-## Kontakt 
-[Jonas Powell](mailto:jonas.powell@icloud.com)
+## Kontakt
+[Jonas Powell](mailto:jonas@email.com)
 
